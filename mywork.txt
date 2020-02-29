@@ -1,0 +1,20 @@
+My associate id:
+844227
+
+Other team members:
+844415, 844423, 844246, 844231
+
+Team lead:
+844227
+
+My role in this giftcard ux design:
+    developing the placeorder page and validating using reactive forms module and
+    storing the submitted data into localstorage 
+
+My development files:
+1. place-order.component.html
+2. place-order.component.ts
+3. place.model.ts
+
+
+
